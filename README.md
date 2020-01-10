@@ -17,3 +17,5 @@ I learn how to create a website and style it. How to use the command line interf
 In the Git sections of the project i learnt how to navigate the file system. how to add files to the staging area,
 also how to commit the files to the repo. Then I learnt how to deploy the project using the push command.
 was a bit confusing at first but I did it :)
+
+link https://tjpryers994.github.io/firstwebsite/
